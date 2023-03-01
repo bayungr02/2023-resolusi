@@ -4,6 +4,7 @@ RENCANA BAYU
 *belajar js
 *framework js
   ^view
+  ^react
 -Struktu Data
 -belajar2
 -belajar3
