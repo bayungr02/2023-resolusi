@@ -3,7 +3,8 @@ RENCANA BAYU
 -belajar1
 *belajar js
 *framework js
--Struktu Data
+  ^angular
+  ^react
 -belajar2
 -belajar3
 -belajar4
