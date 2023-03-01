@@ -1,6 +1,8 @@
 RENCANA BAYU
 
 -belajar1
+*belajar js
+*framework js
 -belajar2
 -belajar3
 -belajar4
